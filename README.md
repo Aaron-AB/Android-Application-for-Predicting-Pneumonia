@@ -2,9 +2,7 @@
 
 <h1>App Demo</h1>
 
-<p align="center>
-  <img src=https://media.giphy.com/media/dBUG6gnTO0rtYwR7GA/giphy.gif alt=”animated” />
-</p>
+<img src=https://media.giphy.com/media/dBUG6gnTO0rtYwR7GA/giphy.gif alt=”animated” />
           
 <table style="width:100%">
   <tr>
@@ -12,15 +10,10 @@
     <th>Quantized</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td style="width: 50%"><img src=https://i.ibb.co/VL0WwY2/Pneumonia-Lite-tflite.png /></td>
+    <td><img src=https://i.ibb.co/7vs1bJ1/Pneumonia-Quant-tflite.png/></td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
+  
 </table>
 
 
