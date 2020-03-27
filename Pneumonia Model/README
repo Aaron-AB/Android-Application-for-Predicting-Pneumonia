@@ -1,0 +1,1 @@
+Contains code to train model and convert tensorflow model to a tflite format
