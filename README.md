@@ -1,5 +1,3 @@
-# GSOC---LibreHealth
-
 <h1>App Demo</h1>
 
 <img src=https://media.giphy.com/media/dBUG6gnTO0rtYwR7GA/giphy.gif alt=”animated” />
