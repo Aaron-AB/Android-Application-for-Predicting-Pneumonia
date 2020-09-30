@@ -19,3 +19,6 @@
 </br>
 <h3>Notes:</h3>
 <p>The app seems to be very innacurate, currently working on debugging at the moment. I don't think it is the model, it could possibly be the low quality bitmap it reads in for inference as compared to the high quality x-rays it had to train on.</p>
+
+<h3>Resources</h3>
+https://blog.tensorflow.org/2018/03/using-tensorflow-lite-on-android.html
